@@ -1,6 +1,5 @@
 # dragon
 blahhhh
-<!DOCTYPE html>
 <html>
 <head>
 <title>void begins
