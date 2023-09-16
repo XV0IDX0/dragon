@@ -1,5 +1,4 @@
 # dragon
-blahhhh
 <html>
 <head>
 <title>void begins
